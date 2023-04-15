@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ryota-sakamoto/ryota-sakamoto/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    
